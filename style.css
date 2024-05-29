@@ -1,0 +1,30 @@
+body{
+    background-image:URL("pared.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+}
+
+.info{
+    width: 700px;
+}
+
+.cabeçalho{
+    text-align: center;
+    font-size: 46px;
+    color: aliceblue;
+}
+.eu{
+    color: aliceblue;
+    font-size: medium;
+    text-align:center;
+
+}
+.perfil{
+    max-width: 175px;
+    max-height: 175px;
+    border-radius: 50%;
+    right: 100px;
+}
